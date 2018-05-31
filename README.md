@@ -5,28 +5,24 @@ SortViz is an educational tool, developed in order to help students to understan
 ## Prerequisites
 
 When using the tool, your computer must have the following elements:
-1.  a version of **Python 3.6**
-2.  the python module **Matplotlib**, which can be downloaded by typing
+1.  A version of **Python 3.6**.
+2.  The python module **Matplotlib**, which can be downloaded by typing.
 
 ```
 pip3 install Matplotlib
 ```
 
-3.  the python Graphical User Interface module, **PyQt5**: 
+3.  The python Graphical User Interface module, **PyQt5**: 
 
 ```
 pip3 install PyQt5
 ```
 
-Note: If you have anaconda installed, you have no need downloading!
-
-## Installation
-
-This tool is a console script, which means that it does not need any installation
+Note: if anaconda is installed on your system, you should already have all the required packages for this project.
 
 ## Running the script
 
-All you have to do is to open the directory containing the scripts, and run the command
+All you have to do is to open the directory containing the scripts, and run the command.
 
 ```
 python SortViz_main_.py
@@ -34,11 +30,15 @@ python SortViz_main_.py
 
 Then you just wait for the GUI window to pop up, and you are ready!
 
-Note: All aforementioned scripts must reside in the same directory
+Note: All aforementioned scripts must reside in the same directory.
 
 ## Running Instructions
 
-When the GUI window pops up, you will, hopefully, understand immediatelly how to use the script. There are three basic buttons, which also show certain functionallity messages when placed under the mouse cursor!
+When the GUI window pops up. There are three basic buttons, which also show certain functionallity messages when placed under the mouse cursor!
+The buttons are:
+1. Custom List
+2. Generate random list
+3. Show current list, which also acts as pause button.
 
 ## Built with
 
@@ -49,6 +49,7 @@ When the GUI window pops up, you will, hopefully, understand immediatelly how to
 ## Versioning
 
 We are trying to improve our coding techniques and programming skills as often as possible. So, be afraid not, we are working for new versions and always think about improvements. Have fun waiting for our updates!
+
 ## Authors
 
 * **Aristos Karampelas-Timotievits** - *Team coordination, Algorithms Implementation, Code Refactoring*
@@ -57,4 +58,6 @@ We are trying to improve our coding techniques and programming skills as often a
 
 ## License
 
-see the LICENSE.md file for details
+This project is licensed under the MIT License - see the LICENSE.md file for details.
+
+Source Codes taken by 3d-party may be licensed differently!
