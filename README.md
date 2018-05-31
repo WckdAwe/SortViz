@@ -48,7 +48,7 @@ When the GUI window pops up, you will, hopefully, understand immediatelly how to
 
 ## Versioning
 
-We are trying to improve our coding techniques and programming skills as often as possibly. So, be afraid not, we are working for new versions and always think about improvements. Have fun waiting for our updates!
+We are trying to improve our coding techniques and programming skills as often as possible. So, be afraid not, we are working for new versions and always think about improvements. Have fun waiting for our updates!
 ## Authors
 
 * **Aristos Karampelas-Timotievits** - *Team coordination, Algorithms Implementation, Code Refactoring*
