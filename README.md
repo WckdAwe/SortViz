@@ -53,7 +53,7 @@ We are trying to improve our coding techniques and programming skills as often a
 ## Authors
 
 * **Aristos Karampelas-Timotievits** - *Team coordination, Algorithms Implementation, Code Refactoring*
-* **Taxiarhis Kouskouras**  - *Full GUI Design, Algorithm Implementation*
+* **Taxiarchis Kouskouras**  - *Full GUI Design, Algorithm Implementation*
 * **Nikos Grygoropoulos**   - *Algorithm Implementation, GUI Assistance & Refactoring*
 
 ## License
