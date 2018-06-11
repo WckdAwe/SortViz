@@ -1,11 +1,18 @@
 from random import shuffle
 from time import sleep
-from display import *
+from .display import *
 import threading
 x = 0
-# bubble Sort
+
 
 def bubble_sort(a_list, fig):
+    '''
+
+    Performance: Best O(?) || Average O(n^2) || Worse O(n^2)
+    :param a_list:
+    :param fig:
+    :return:
+    '''
     for i in range(1, len(a_list)):
         for j in range(1, len(a_list)):
             if a_list[j - 1] > a_list[j]:
